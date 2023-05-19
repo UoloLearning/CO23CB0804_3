@@ -1,0 +1,9 @@
+<script>
+    var firstname = prompt("enter first name");
+    var lastname = prompt("enter last name");
+   
+    name = firstname + " " + lastname;
+
+
+    document.write("The user's name is : " + name);
+</script>
