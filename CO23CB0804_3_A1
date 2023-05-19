@@ -1,0 +1,11 @@
+<script>
+    var input = prompt("enter a string that starts with z");
+    var result = input.startsWith("z")
+    if(result==true)
+    {
+        document.write("you entered the correct string");
+    }
+    else{
+        document.write("you entered the incorrect string");
+    }
+</script>
